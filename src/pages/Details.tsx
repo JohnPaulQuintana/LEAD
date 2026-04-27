@@ -15,9 +15,9 @@ import {
   FiNavigation,
   FiThumbsUp,
   FiUsers,
-  FiAward,
+  // FiAward,
   FiExternalLink,
-  FiCheckCircle,
+  // FiCheckCircle,
 } from "react-icons/fi";
 
 export default function Details() {
